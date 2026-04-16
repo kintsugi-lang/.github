@@ -1,4 +1,4 @@
-<img src="/logo-full.svg" width="500" height="250" />
+<img src="/profile/logo-full.svg" width="500" height="250" />
 
 <br/>
 
