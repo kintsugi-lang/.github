@@ -1,7 +1,5 @@
 <img src="/profile/logo-full.svg" width="500" height="250" />
 
-<br/>
-
 ### (/kɪnˈtsuːɡi/, Japanese: 金継ぎ, lit. "golden joinery")
 #### noun, also known as "kintsukuroi" (金繕い, "golden repair")
 > 1. the Japanese art of repairing broken pottery by mending the areas of breakage with urushi lacquer dusted or mixed with powdered gold, silver, or platinum
