@@ -6,4 +6,4 @@
 > 2. a homoiconic programming language inspired by REBOL that compiles to LOVE- or Playdate-compatible Lua
 
 ---
-[Transpiler](https://github.com/kintsugi-lang/kintsugi) | [Examples](https://github.com/kintsugi-lang/examples) | [Playground](https://github.com/kintsugi-lang/playground)
+[Website](https://kintsugi-lang.org) | [Transpiler](https://github.com/kintsugi-lang/kintsugi) | [Examples](https://github.com/kintsugi-lang/examples) | [Playground](https://github.com/kintsugi-lang/playground)
